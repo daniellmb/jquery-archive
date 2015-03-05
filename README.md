@@ -1,6 +1,6 @@
 # The jQuery Archive
 
-An archive of old-school jQuery alpha versions (before revision #509 was released under the MIT License on Oct 27 2006).
+An archive of old-school jQuery alpha versions (**before revision #509** was released under the MIT License on Oct 27 2006).
 
 It's easy to find [every version of jQuery](https://code.jquery.com/jquery/) starting with revision #509. But that's not the case with older versions of jQuery. According to the [official history](https://jquery.org/history/), John Resig started working on jQuery in late 2005.
 
